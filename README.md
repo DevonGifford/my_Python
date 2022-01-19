@@ -14,6 +14,8 @@ Also a repo for all my projects and exercises I completed in the following learn
 
 Also included are all my Python Study Notes from notion app
 
+<hr>
+
 <div>
     <h3>👇 Learn Python the Hard Way </h3>
 </div>
