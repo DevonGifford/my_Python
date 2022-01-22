@@ -23,10 +23,10 @@ https://shop.learncodethehardway.org/
 </p>
 
 
-<div align="center">
+<div>
     <h3>👇 ZTM Python Master Bootcamp </h3>
 </div>
 https://zerotomastery.io/courses/learn-python/
-<p align='center'>
+<p>
     <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay" height="280">
 </p>
