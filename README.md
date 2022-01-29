@@ -15,7 +15,7 @@ Also a repo for all my projects and exercises I completed in the following learn
 Also included are all my Python Study Notes from notion app
 
 <div>
-    <h2>👇 Learn Python the Hard Way </h2>
+    <h3>👇 Learn Python the Hard Way </h3>
 </div>
 https://shop.learncodethehardway.org/
 <p>
@@ -24,7 +24,7 @@ https://shop.learncodethehardway.org/
 
 
 <div align="center">
-    <h2>👇 ZTM Python Master Bootcamp </h2>
+    <h3>👇 ZTM Python Master Bootcamp </h3>
 </div>
 https://zerotomastery.io/courses/learn-python/
 <p align='center'>
