@@ -14,11 +14,11 @@ Also a repo for all my projects and exercises I completed in the following learn
 
 Also included are all my Python Study Notes from notion app
 
-<div align="center">
+<div>
     <h2>👇 Learn Python the Hard Way </h2>
 </div>
 https://shop.learncodethehardway.org/
-<p align='center'>
+<p>
     <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay" height="340">
 </p>
 
