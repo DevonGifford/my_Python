@@ -8,8 +8,11 @@
 </p>
 
 Part of my collection from 100 days of code challenge from 2022
+Also a repo for all my projects and exercises I completed in the following learning sources:
+<li>
+<li>
 
-Also a repo for all my projects completed in the following learning sources:
+Also included are all my Python Study Notes from notion app
 
 <div align="center">
     <h2>👇 Learn Python the Hard Way </h2>
@@ -21,7 +24,7 @@ Also a repo for all my projects completed in the following learning sources:
 
 
 <div align="center">
-    <h3>👇 ZTM Python Master Bootcamp </h3>
+    <h2>👇 ZTM Python Master Bootcamp </h2>
 </div>
 
 <p align='center'>
