@@ -9,8 +9,8 @@
 
 Part of my collection from 100 days of code challenge from 2022
 Also a repo for all my projects and exercises I completed in the following learning sources:
-<li>
-<li>
+<li>Learn Python the HardWay
+<li>Zero to Mastery Python Bootcamp
 
 Also included are all my Python Study Notes from notion app
 
@@ -19,7 +19,7 @@ Also included are all my Python Study Notes from notion app
 </div>
 
 <p align='center'>
-    <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay" height="360">
+    <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay" height="340">
 </p>
 
 
@@ -28,10 +28,5 @@ Also included are all my Python Study Notes from notion app
 </div>
 
 <p align='center'>
-    <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay" height="300">
+    <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay" height="280">
 </p>
-
-## note
-
-This repo is for the purposes of collecting all of the exercises & projects I have worked on in the above mentioned resources.
-
