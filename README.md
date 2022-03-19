@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h3>👇 Personal Python Showcase Repo </h3>
+    <h1>👇 Personal Python Showcase Repo </h1>
 </div>
 
 <p align='center'>
@@ -12,7 +12,7 @@ Part of my collection from 100 days of code challenge from 2022
 Also a repo for all my projects completed in the following learning sources:
 
 <div align="center">
-    <h3>👇 Learn Python the Hard Way </h3>
+    <h2>👇 Learn Python the Hard Way </h2>
 </div>
 
 <p align='center'>
