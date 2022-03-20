@@ -1,4 +1,11 @@
-# Python Showcase Repo
+
+<div align="center">
+    <h3>👇 Personal Python Showcase Repo </h3>
+</div>
+
+<p align='center'>
+    <img src="z-ReadMe-Media\python.ico" alt="Logo" title="PythonLogo">
+</p>
 
 Part of my collection from 100 days of code challenge from 2022
 
