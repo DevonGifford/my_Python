@@ -5,7 +5,7 @@ Part of my collection from 100 days of code challenge from 2022
 Also a repo for all my projects completed in the following learning sources:
 
 <div align="center">
-    <h3>- Learn Python the Hard Way </h3>
+    <h3>👇 Learn Python the Hard Way </h3>
 </div>
 
 <p align='center'>
@@ -14,7 +14,7 @@ Also a repo for all my projects completed in the following learning sources:
 
 
 <div align="center">
-    <h3> ZTM Python Master Bootcamp </h3>
+    <h3>👇 ZTM Python Master Bootcamp </h3>
 </div>
 
 <p align='center'>
