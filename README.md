@@ -1,14 +1,16 @@
-# Python Showcase
+# Python Showcase Repo
 
 Part of my collection from 100 days of code challenge from 2022
 
 Also a repo for all my projects completed in the following learning sources:
-- Learn Python the Hard Way
-- ZTM Python Master Bootcamp
+
+### Learn Python the Hard Way
 
 <p align='center'>
     <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay" height="360">
 </p>
+
+### ZTM Python Master Bootcamp
 
 <p align='center'>
     <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay" height="300">
