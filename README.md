@@ -7,7 +7,7 @@ Also a repo for all my projects completed in the following learning sources:
 - ZTM Python Master Bootcamp
 
 <p align='center'>
-    <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay">
+    <img src="z-ReadMe-Media\LearnPythonTheHardWay.jpeg" alt="Demo1" title="LearnPythonTheHardWay" height="360">
 </p>
 
 <p align='center'>
