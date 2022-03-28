@@ -11,7 +11,7 @@ Also a repo for all my projects completed in the following learning sources:
 </p>
 
 <p align='center'>
-    <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay">
+    <img src="z-ReadMe-Media\ZTMPythonBootcamp.png" alt="Demo2" title="LearnPythonTheHardWay" height="150">
 </p>
 
 ## note
