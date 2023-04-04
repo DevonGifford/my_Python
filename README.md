@@ -15,5 +15,6 @@ Link to prjects (coming soon)
 
 - [ ] - data science folder (less data files)
 - [ ] - reference app web scraper (LinkedIn references)
+- [ ] - data science final project (Detection model)
 
 
