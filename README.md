@@ -1,6 +1,6 @@
 # Python Showcase
 
-Collection from my 2022 - 100 days of code challenge
+Part of my collection from 100 days of code challenge (2022)
 Also a repo for all my projects completed in the ZTM Python Master Bootcamp
 
 
@@ -11,6 +11,6 @@ This repo is for the purposes of collecting all of the exercises & projects I ha
 
 ## futher ...
 
-Link to prjects 
+Link to prjects (coming soon)
 
 
