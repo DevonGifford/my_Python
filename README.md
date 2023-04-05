@@ -13,4 +13,7 @@ This repo is for the purposes of collecting all of the exercises & projects I ha
 
 Link to prjects (coming soon)
 
+- [ ] - data science folder (less data files)
+- [ ] - reference app web scraper (LinkedIn references)
+
 
